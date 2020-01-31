@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/lmitasiunas0043/DevOps/_apis/build/status/lmitasiunas.DevOps?branchName=master)](https://dev.azure.com/lmitasiunas0043/DevOps/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
